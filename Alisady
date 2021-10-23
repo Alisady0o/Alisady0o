@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=divice-with initial-scale=1">
+<link rel="stylesheet" href="1.css">
+
+
+
+
+</head>
+
+
+
+
+<nav> </nav>
+
+
+
+<body>
+
+
+<form>
+
+
+<div id="box">
+<img src="1.png" >
+
+<input class="ali" type="text" placeholder="username">
+
+
+<br></br>
+
+
+<input class="ali" type="password" placeholder="password">
+
+
+
+<br> </br>
+
+
+<button id="ali2"> login </button>
+
+<br></br>
+
+ <a href=""> forgot password? </a>
+
+
+
+</div>
+
+
+
+</form>
+
+
+
+
+
+
+
+
+</bdoy>
+
+
+<footer align=" center"> 
+   Designed: <B> By <span>Ali </span> </B>  
+  
+<br></br>
+2021©️
+
+
+</footer>
+
+</html>
+
+<style>
+</style>
+
+
+<script src="1.js">
+
+
+</script>
